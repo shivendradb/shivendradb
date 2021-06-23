@@ -73,6 +73,8 @@
   More stuff about me
 </summary>
 
+<br>
+
 Based in India. CSE Student. Learning React JS and Javascript. Love to code, learn new skills and lack of sleep.
 
 ### Coding Stats
