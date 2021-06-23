@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">A passionate Full Stack Web Developer.</h3>
 
 <br>
 
-## 🔗 Connect with me :
+## 🔗 Connect with me
 
 <p align="left">
 
@@ -16,11 +16,6 @@
 <a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 &nbsp;
 <a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Shivendra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivendra-singh-58319148/)
-[![Mail Badge](https://img.shields.io/badge/-@mr_worldwide_9-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mr_worldwide_9/)
-[![Facebook Badge](https://img.shields.io/badge/-shivendradb-004CFF?style=flat&labelColor=004CFF&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007579414103)
-[![Mail Badge](https://img.shields.io/badge/-shivendradb92-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shivendradb92@gmail.com) -->
 
 <br>
 
@@ -67,7 +62,7 @@
 
 <br>
 
-### 🕒 Profile Visits
+### 🕒 Profile Visit Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
 
@@ -78,11 +73,7 @@
   More stuff about me
 </summary>
 
-<br >
-
 Based in India. CSE Student. Learning React JS and Javascript. Love to code, learn new skills and lack of sleep.
-
-<br >
 
 ### Coding Stats
 
