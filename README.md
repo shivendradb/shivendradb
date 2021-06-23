@@ -15,7 +15,7 @@
 &nbsp;
 <a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 &nbsp;
-<a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href = "mailto: shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 
 <br>
 
