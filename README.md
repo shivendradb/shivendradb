@@ -64,7 +64,7 @@
 
 ### 🕒 Profile Visit Count
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
 
 <br>
 
