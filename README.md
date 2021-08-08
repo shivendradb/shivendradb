@@ -80,13 +80,13 @@ Based in India. CSE Student. Learning React JS and Javascript. Love to code, lea
 ### Coding Stats
 
 ```text
-React JS       ████████████████▓░░░░░░░    70 %
+React JS       █████████████████▓░░░░░░    75 %
 
 HTML and CSS   ████████████████████▓░░░    85 %
 
 Node JS        ██████████████████▓░░░░░    80 %
 
-Flutter        ██████████▓░░░░░░░░░░░░░    40 %
+React Native   ██████████████▓░░░░░░░░░    60 %
 ```
 
 <br>
