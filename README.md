@@ -1,5 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+
 <!-- Matrix animation same as of Himank -->
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] -->
 
@@ -7,6 +8,11 @@
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
 
 <br> -->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
+<h3 align="center">A passionate Full Stack Web Developer.</h3>
+
+<br>
 
 ## 🙋‍♂️ About Me
 
@@ -65,6 +71,20 @@
 
 <br>
 
+### 🔗 Connect with me
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shivendra-singh-58319148/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+&nbsp;
+<a href = "https://www.instagram.com/mr_worldwide_9/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+&nbsp;
+<a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+&nbsp;
+<a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+
+<br>
+
 ### Github Stats
 
 ![Shivendra's github stats](https://github-readme-stats.vercel.app/api?username=shivendradb&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -80,16 +100,20 @@
 
 Based in India. CSE Student. Learning React JS and Javascript. Love to code, learn new skills and lack of sleep.
 
+### 🕒 Profile Visit Count
+
+![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
+
 ### Coding Stats
 
 ```text
-React JS       ████████████████▓░░░░░░░    70 %
+React JS       █████████████████▓░░░░░░    75 %
 
 HTML and CSS   ████████████████████▓░░░    85 %
 
 Node JS        ██████████████████▓░░░░░    80 %
 
-Flutter        ██████████▓░░░░░░░░░░░░░    40 %
+React Native   ██████████████▓░░░░░░░░░    60 %
 ```
 
 <br>
