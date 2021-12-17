@@ -1,23 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
+<!-- Matrix animation same as of Himank -->
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] -->
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
 
-<br>
-
-## 🔗 Connect with me
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/shivendra-singh-58319148/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-&nbsp;
-<a href = "https://www.instagram.com/mr_worldwide_9/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-&nbsp;
-<a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-&nbsp;
-<a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-
-<br>
+<br> -->
 
 ## 🙋‍♂️ About Me
 
@@ -32,6 +21,20 @@
 - 📫 Reach me - **shivendradb92@gmail.com**
 
 - ⚡ Fun fact: **I like to play games and learn new skills.**
+
+<br>
+
+## 🔗 Connect with me
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shivendra-singh-58319148/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+&nbsp;
+<a href = "https://www.instagram.com/mr_worldwide_9/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+&nbsp;
+<a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+&nbsp;
+<a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 
 <br>
 
@@ -62,9 +65,9 @@
 
 <br>
 
-### 🕒 Profile Visit Count
+### Github Stats
 
-![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
+![Shivendra's github stats](https://github-readme-stats.vercel.app/api?username=shivendradb&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <br>
 
@@ -91,9 +94,9 @@ Flutter        ██████████▓░░░░░░░░░░�
 
 <br>
 
-### Github Stats
+### 🕒 Profile Visit Count
 
-![Shivendra's github stats](https://github-readme-stats.vercel.app/api?username=shivendradb&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
 
 <br>
 
