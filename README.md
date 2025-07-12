@@ -1,146 +1,64 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-
-<!-- Matrix animation same as of Himank -->
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] -->
-
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
-<h3 align="center">A passionate Full Stack Web Developer.</h3>
-
-<br> -->
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Singh</h1>
-<h3 align="center">A passionate Full Stack Web Developer.</h3>
+<h3 align="center">Full Stack Developer · Builder of real-world products · Curious mind always learning</h3>
 
 <br>
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🔭 Spend most of time **coding** outstanding projects and **learning** new concepts.
-
-- 🌱 Currently learning **Javascript and React.js.**
-
-- 👯 I’m looking to collaborate on **Projects** or any **Freelance work.**
-
-- 👨‍💻 To view my Portfolio - **[Click Here](https://shivendra-singh-portfolio.netlify.app/)**
-
-- 📫 Reach me - **shivendradb92@gmail.com**
-
-- ⚡ Fun fact: **I like to play games and learn new skills.**
+- 🧑‍💼 **Software Engineer II** with 3+ years of experience shipping production-ready systems at scale
+- 🛠️ Full-stack developer focused on clean, reliable, and maintainable software
+- 🌐 Worked on web platforms, internal tools, and backend services used by lakhs of users daily
+- 🔁 Integrated third-party systems, automated complex workflows, and enhanced internal developer platforms
+- 🚀 Part of a cross-functional team contributing to a public product demo at **Global Fintech Fest**
+- 💡 Passionate about developer experience, system design, and thoughtful architecture
+- 📫 Reach me: [shivendra@email.com](mailto:shivendra@email.com)
+- 🌍 Portfolio: [Click Here](https://shivendra-singh-portfolio.netlify.app)
 
 <br>
 
-## 🔗 Connect with me
+## 🚀 What I Work On
 
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/shivendra-singh-58319148/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-&nbsp;
-<a href = "https://www.instagram.com/mr_worldwide_9/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-&nbsp;
-<a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-&nbsp;
-<a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+- Designing and building APIs, services, and web interfaces for real-world product use cases  
+- Collaborating with product and ops teams to create scalable backend flows and admin tools  
+- Writing testable, modular, and production-grade code with observability and metrics built in  
+- Balancing delivery with quality in fast-paced environments  
 
 <br>
 
-## 💻 Top Technologies
+## 🛠️ Tech Stack
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react)](#)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js)](#)
+[![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql)](#)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws)](#)
 
 <br>
 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=234ea94b)](#)
-&nbsp;
-[![Express Badge](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=%2361DAFB)](#)
-&nbsp;
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-&nbsp;
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-&nbsp;
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-&nbsp;
-[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&labelColor=black&logo=html5&logoColor=23E34F26)](#)
+## 📊 GitHub Stats
 
-&nbsp;
-[![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&labelColor=black&logo=css3&logoColor=231572B6)](#)
-&nbsp;
-[![Firebase Badge](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&labelColor=black&logo=firebase)](#)
-&nbsp;
-[![NPM Badge](https://img.shields.io/badge/NPM-%230081CB.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=230081CB)](#)
-&nbsp;
-[![MaterialUI Badge](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=230081CB)](#)
+![Shivendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivendradb&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <br>
 
-### 🔗 Connect with me
+## 🔗 Connect with Me
 
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/shivendra-singh-58319148/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="[https://linkedin.com/in/shivendradb](https://www.linkedin.com/in/link-shivendra-singh/)"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 &nbsp;
-<a href = "https://www.instagram.com/mr_worldwide_9/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:shivendra@email.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href="https://www.instagram.com/mr_worldwide_9/"><img height="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 &nbsp;
-<a href = "https://www.facebook.com/profile.php?id=100007579414103"><img height="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-&nbsp;
-<a href = "mailto:shivendradb92@gmail.com"><img height="40px" src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-
-<br>
-
-### Github Stats
-
-![Shivendra's github stats](https://github-readme-stats.vercel.app/api?username=shivendradb&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <br>
 
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary>🧠 A Bit More About Me</summary>
 
-<br>
-
-Based in India. CSE Student. Learning React JS and Javascript. Love to code, learn new skills and lack of sleep.
-
-### 🕒 Profile Visit Count
-
-![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
-
-### Coding Stats
-
-```text
-React JS       █████████████████▓░░░░░░    75 %
-
-HTML and CSS   ████████████████████▓░░░    85 %
-
-Node JS        ██████████████████▓░░░░░    80 %
-
-React Native   ██████████████▓░░░░░░░░░    60 %
-```
-
-<br>
-
-### 🕒 Profile Visit Count
-
-![Visitor Count](https://profile-counter.glitch.me/{shivendradb}/count.svg)
-
-<br>
-
-### Github Contribution Graph
-
-<a href="https://github.com/shivendradb/github-readme-activity-graph"><img alt="Shivendra Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivendradb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+- 🧠 Deeply interested in system design, clean APIs, observability, and backend optimization
+- 🔄 Advocate of readable code, thoughtful abstractions, and robust testing
+- 🎮 Gamer, code reviewer, lifelong learner
 
 </details>
-
-<!--
-**shivendradb/shivendradb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
