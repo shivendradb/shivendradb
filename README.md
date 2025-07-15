@@ -38,12 +38,13 @@
 
 <br>
 
+<!---
 ## 📊 GitHub Stats
 
 ![Shivendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivendradb&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <br>
-
+-->
 ## 🔗 Connect with Me
 
 <a href="[https://linkedin.com/in/shivendradb](https://www.linkedin.com/in/link-shivendra-singh/)"><img height="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
